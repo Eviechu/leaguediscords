@@ -30,6 +30,7 @@
 28. [Official Riot Discords](#official-riot-servers)
 29. [Other Riot Games](#other-riot-game-servers)
   
+![League Banner](https://pbs.twimg.com/media/E629ivCVoAAsHrU?format=jpg&name=large "League Banner")
 # Links
   
 ## A  
