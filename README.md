@@ -37,7 +37,7 @@
 # Links
   
 ## A  
-Aatrox - [Main](https://discord.gg/DUgktnZ) / [Alt Link]((https://discord.gg/JGvme9qSRA)  
+Aatrox - [Main](https://discord.gg/DUgktnZ) / [Alt Link](https://discord.gg/JGvme9qSRA)  
 Ahri - [Main](https://discord.gg/ahrimains)  
 Akali - [Main](https://discord.gg/akalimains)  
 Alistar - [Main](https://discord.gg/7neFeX64Vm)  
@@ -182,7 +182,7 @@ Seraphine - [Main](https://discord.gg/seraphine) / [Alt Link](https://discord.gg
 Sett - [Main](https://discord.gg/BSuvJ8J)  
 Shaco - [Main](https://discord.gg/tSNQR6k) / [Alt Link](https://discord.gg/eHyevbmgqB)  
 Shen - [Main](https://discord.gg/S7Kx3RaYA3)  
-Shyvana - [Main](https://discord.gg/7mnHdtR / [Alt Link](https://discord.gg/U3kd4RCnXn)  
+Shyvana - [Main](https://discord.gg/7mnHdtR) / [Alt Link](https://discord.gg/U3kd4RCnXn)  
 Singed - [Main](https://discord.gg/singed-mains-409943320773787648) / [Alt Link](https://discord.gg/4Djkcqw)  
 Sion - [Main](https://discord.gg/ChQ7c9J) / [Alt Link](https://discord.gg/zeDe4wZk3d)  
 Sivir - [Main](https://discord.gg/7ggcBVqdrV) / [Alt Link](https://discord.gg/Rh2VZy3K9E)  
@@ -198,7 +198,7 @@ Tahm Kench - [Main](https://discord.gg/TQtgdyesem)
 Taliyah - [Main](https://discord.gg/DNSvt4uVja)  
 Talon - [Main](https://discord.gg/talonmains)  
 Taric - [Main](https://discord.gg/w5PtBJDERv) / [Alt Link](https://discord.gg/vhCG473u)  
-Thresh - [Main](https://discord.gg/threshmains / [Alt Link](https://discord.gg/XMK2WaZ)  
+Thresh - [Main](https://discord.gg/threshmains) / [Alt Link](https://discord.gg/XMK2WaZ)  
 Teemo - [Main](https://discord.gg/VXKS8RBZDU)  
 Tristana - [Main](https://discord.gg/pREjFQY) / [Alt Link](https://discord.gg/p9uzwP3Tpw)  
 Trundle - [Main](https://discord.gg/ftbWKaC) / [Alt Link](https://discord.gg/dERPYWvD3j)  
