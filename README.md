@@ -27,8 +27,8 @@
 25. [Y](#y)
 26. [Z](#z)
 27. [Lanes](#lanes)
-28. [Official Riot Discords](#Official Riot Servers)
-29. [Other Riot Games](#Other Riot Game Servers)
+28. [Official Riot Discords](#official-riot-servers)
+29. [Other Riot Games](#other-riot-game-servers)
   
 # Links
   
