@@ -135,7 +135,7 @@ Malphite - https://discord.gg/3BTsTuH / https://discord.gg/HMKWgD5gqJ
 Malzahar - https://discord.gg/RmdNnwR / https://discord.gg/Bsq6t99e73  
 Maokai - https://discord.gg/Uz8ttH4 / https://discord.gg/B8VF97Tk93  
 Master Yi - https://discord.gg/5UE7xQx  
-Miss Fortune - https://discord.gg/mfmains / https://discord.gg/SqHvXxXPK9
+Miss Fortune - https://discord.gg/mfmains / https://discord.gg/SqHvXxXPK9  
 Mordekaiser - https://discord.gg/gd63KGW  
 Morgana - https://discord.gg/nEuTNE9  
   
