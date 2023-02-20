@@ -1,4 +1,6 @@
-# Table of Contents
+![League Banner](https://pbs.twimg.com/media/E629ivCVoAAsHrU?format=jpg&name=large "League Banner")  
+  
+# Table of Contents  
   
 1. [A](#a)
 2. [B](#b)
@@ -30,7 +32,8 @@
 28. [Official Riot Discords](#official-riot-servers)
 29. [Other Riot Games](#other-riot-game-servers)
   
-![League Banner](https://pbs.twimg.com/media/E629ivCVoAAsHrU?format=jpg&name=large "League Banner")
+![League Banner 2](https://lol-stats.net/uploads/4oFJWfOt73gESxXmHb0aAyij5wSDnQU5shtOjf8p.jpeg "League Banner 2")
+  
 # Links
   
 ## A  
