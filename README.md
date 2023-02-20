@@ -116,7 +116,7 @@ Kayn - [Main](https://discord.gg/kaynmains) / [Alt Link](https://discord.gg/EJWw
 Katarina - [Main](https://discord.gg/3JbNErsGx6)  
 Kennen - [Main](https://discord.gg/CMJPsaj) / [Alt Link](https://discord.gg/DnUFEAJ79y)  
 Kha'Zix - [Main](https://discord.gg/khazix) / [Alt Link](https://discord.gg/AFBVzB8MRK)  
-Kindred - [Main](https://discord.gg/hweEVXB7xU)  / [Alt Link](https://discord.gg/pGTJFQG) / [Alt Link 2]https://discord.gg/GA8pQWKABr)  
+Kindred - [Main](https://discord.gg/hweEVXB7xU)  / [Alt Link](https://discord.gg/pGTJFQG) / [Alt Link 2](https://discord.gg/GA8pQWKABr)  
 Kled - [Main](https://discord.gg/kledmains) / [Alt Link](https://discord.gg/fHYsBTh)  
 Kog'Maw - [Main](https://discord.gg/kNmuJbN) / [Alt Link](https://discord.gg/5TyRmq8JZm)  
   
