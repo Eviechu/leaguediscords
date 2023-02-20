@@ -1,9 +1,9 @@
 # Links
 
 ##A
-Aatrox - https://discord.gg/DUgktnZ / https://discord.gg/JGvme9qSRA
-Ahri - https://discord.gg/ahrimains
-Akali - https://discord.gg/akalimains
+Aatrox - https://discord.gg/DUgktnZ / https://discord.gg/JGvme9qSRA  
+Ahri - https://discord.gg/ahrimains  
+Akali - https://discord.gg/akalimains  
 Alistar - https://discord.gg/7neFeX64Vm
 Amumu - https://discord.gg/tCvttu8
 Anivia - https://discord.gg/U97BQuk2P9
